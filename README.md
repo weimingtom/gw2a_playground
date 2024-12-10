@@ -14,4 +14,11 @@
 * https://www.bilibili.com/video/BV1db4y1p7jD/
 
 ## quartus12_copy  
-
+```
+实际用了一下高云的IDE综合器编译自己写（借鉴）的代码，
+它和Quartus12基本上是一样的（不考虑什么针脚设计，
+就简单的verilog和VHDL），除了VHDL语法会有一点细微的区别：
+VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件，
+需要在实体名前面加上entity才不会出现语法错误，
+但我查过书，其实不加entity也是对的
+```
