@@ -8,6 +8,10 @@
 * nestang_install.7z/TangNano-20K-example-main_mod.7z  
 
 ## 从CPU到SoC的设计与实现 基于高云云源软件和FPGA硬件平台  
+```
+我实际测试过《从CPU到SoC的设计及实现》这本书中提到的高云IDE编译MIPS的单周期多周期流水线实现，
+大概需要1.6K（或2.3K左右）个LUT逻辑单元，也就是说大部分高云开发板应该都能跑（虽然需要比较多的引脚）
+```
 
 ## apple1_on_anlogic  
 * https://gitee.com/pan-xingyu/apple1_on_anlogic
