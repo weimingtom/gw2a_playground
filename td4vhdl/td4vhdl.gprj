@@ -1,0 +1,13 @@
+<?xml version="1" encoding="UTF-8"?>
+<!DOCTYPE gowin-fpga-project>
+<Project>
+    <Template>FPGA</Template>
+    <Version>5</Version>
+    <Device name="GW2A-18C" pn="GW2A-LV18PG256CC8/I7">gw2a18c-014</Device>
+    <FileList>
+        <File path="src/rom.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/rom_knight2k.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/td4vhdl.vhd" type="file.vhdl" enable="1"/>
+        <File path="src/td4vhdl.cst" type="file.cst" enable="1"/>
+    </FileList>
+</Project>

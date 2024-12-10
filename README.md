@@ -12,3 +12,6 @@
 ## apple1_on_anlogic  
 * https://gitee.com/pan-xingyu/apple1_on_anlogic
 * https://www.bilibili.com/video/BV1db4y1p7jD/
+
+## quartus12_copy  
+
