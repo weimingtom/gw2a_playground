@@ -1,6 +1,9 @@
 # gw2a_playground
 [WIP] My GW2A CPLD/FPGA/verilog playground
 
+## (TODO) How to use Gowin Programmer combine files  
+(TODO) how to use Gowin Programmer to combine fs files and bin files  
+
 ## (TODO) Basys3 snake and other games (search csdn download)   
 
 ## Gowin IDE and Programmer  
