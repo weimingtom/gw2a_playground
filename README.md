@@ -1,6 +1,8 @@
 # gw2a_playground
 [WIP] My GW2A CPLD/FPGA/verilog playground
 
+## (TODO) Basys3 snake and other games (search csdn download)   
+
 ## Gowin IDE and Programmer  
 * (x) Gowin_V1.9.8.11_Education_win.zip  
 * Gowin_V1.9.9Beta-4_Education_win.zip  
