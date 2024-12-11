@@ -28,3 +28,8 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 需要在实体名前面加上entity才不会出现语法错误，
 但我查过书，其实不加entity也是对的
 ```
+
+## Waveshare EPM1270    
+* https://www.waveshare.net/wiki/OpenEPM1270  
+* https://www.waveshare.net/w/upload/f/f7/EPM1270-Demo.7z
+* Include LED sample verilog and VHDL code  
