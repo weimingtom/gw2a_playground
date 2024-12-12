@@ -18,9 +18,11 @@
 大概需要1.6K（或2.3K左右）个LUT逻辑单元，也就是说大部分高云开发板应该都能跑（虽然需要比较多的引脚）
 ```
 
-## apple1_on_anlogic  
-* https://gitee.com/pan-xingyu/apple1_on_anlogic
-* https://www.bilibili.com/video/BV1db4y1p7jD/
+## apple-one  
+* https://github.com/alangarf/apple-one  
+* apple1_on_anlogic   
+* https://gitee.com/pan-xingyu/apple1_on_anlogic  
+* https://www.bilibili.com/video/BV1db4y1p7jD/  
 
 ## quartus12_copy  
 ```
