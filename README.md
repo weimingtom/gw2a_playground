@@ -38,3 +38,15 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 * https://www.waveshare.net/wiki/OpenEPM1270  
 * https://www.waveshare.net/w/upload/f/f7/EPM1270-Demo.7z
 * Include LED sample verilog and VHDL code  
+
+## td4  
+* (dead) https://vanya.jp.net/td4/
+* https://github.com/wuxx/TD4-4BIT-CPU/blob/master/software/test/test_0_output.s
+
+## td4 VHDL  
+* https://github.com/hiro1735/TD4
+* https://github.com/yskoht/td4
+* https://github.com/kumegoon/TD4_RTL
+
+## td4 verilog  
+* 
