@@ -51,7 +51,8 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 ## td4 verilog  
 * https://github.com/asfdrwe/simpleTD4
 * https://github.com/geodenx/td4
-* https://github.com/myoan/td4  
+* https://github.com/myoan/td4
+* https://github.com/zyu-c/verilog_TD4  
 * https://github.com/cielo-ee/TD4
 * https://github.com/cielo-ee/td4_kai
 * (dead) https://github.com/itoh5588/TD4-1
@@ -63,4 +64,6 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 * (dead) https://github.com/t499/TD4
 * https://github.com/thata/td4
 * https://github.com/thata/td4_learning
-* 
+* https://github.com/tiqwab/TD4
+* https://github.com/varmil/td4-cpu-with-verilog
+
