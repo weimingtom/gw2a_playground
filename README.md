@@ -49,4 +49,18 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 * https://github.com/kumegoon/TD4_RTL
 
 ## td4 verilog  
+* https://github.com/asfdrwe/simpleTD4
+* https://github.com/geodenx/td4
+* https://github.com/myoan/td4  
+* https://github.com/cielo-ee/TD4
+* https://github.com/cielo-ee/td4_kai
+* (dead) https://github.com/itoh5588/TD4-1
+* https://github.com/ledyba/TD4_for_VerilogHDL
+* https://github.com/oskimura/TD4
+* https://github.com/Prokuma/TD4
+* https://github.com/skylinker/td4_v1
+* https://github.com/skylinker/td4_verilog
+* (dead) https://github.com/t499/TD4
+* https://github.com/thata/td4
+* https://github.com/thata/td4_learning
 * 
