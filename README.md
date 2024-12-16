@@ -42,6 +42,7 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 ## td4  
 * (dead) https://vanya.jp.net/td4/
 * https://github.com/wuxx/TD4-4BIT-CPU/blob/master/software/test/test_0_output.s
+* https://github.com/weimingtom/wmt_ai_study/blob/master/fpga_cpld_001.md  
 
 ## td4 VHDL  
 * https://github.com/hiro1735/TD4
@@ -67,3 +68,9 @@ VHDL似乎遇到端口映射port map语句的时候会提示没有这个组件�
 * https://github.com/tiqwab/TD4
 * https://github.com/varmil/td4-cpu-with-verilog
 
+## CPU自制入门
+* CPU自制入门 ((日)水头一寿等)  
+search baidupan, CPUhomebrew-main.zip  
+search 620435 CPU自制入门.pdf  
+https://github.com/weimingtom/wmt_ai_study/blob/master/mcu_001.md
+* https://github.com/weimingtom/wmt_ai_study/blob/master/fpga_cpld_001.md
