@@ -74,3 +74,8 @@ search baidupan, CPUhomebrew-main.zip
 search 620435 CPU自制入门.pdf  
 https://github.com/weimingtom/wmt_ai_study/blob/master/mcu_001.md
 * https://github.com/weimingtom/wmt_ai_study/blob/master/fpga_cpld_001.md
+
+## 【立创·逻辑派FPGA-G1开发板】, GW2A-LV18PG256C8/I7  
+* search baidupan, 逻辑派FPGA-G1  
+* https://wiki.lckfb.com/zh-hans/fpga-ljpi/open-source-hardware/download.html  
+* https://wiki.lckfb.com/zh-hans/fpga-ljpi/beginner/led.html  
