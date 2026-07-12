@@ -79,3 +79,6 @@ https://github.com/weimingtom/wmt_ai_study/blob/master/mcu_001.md
 * search baidupan, 逻辑派FPGA-G1  
 * https://wiki.lckfb.com/zh-hans/fpga-ljpi/open-source-hardware/download.html  
 * https://wiki.lckfb.com/zh-hans/fpga-ljpi/beginner/led.html  
+
+## (TODO) search baidupan, 逻辑派FPGA-G1, 逻辑派FPGA-Z1
+
