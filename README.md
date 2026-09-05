@@ -79,10 +79,7 @@ https://github.com/weimingtom/wmt_ai_study/blob/master/mcu_001.md
 * search baidupan, 逻辑派FPGA-G1  
 * https://wiki.lckfb.com/zh-hans/fpga-ljpi/open-source-hardware/download.html  
 * https://wiki.lckfb.com/zh-hans/fpga-ljpi/beginner/led.html  
-
-## (TODO) search baidupan, 逻辑派FPGA-G1, 逻辑派FPGA-Z1
+* (TODO) search baidupan, 逻辑派FPGA-G1, 逻辑派FPGA-Z1
 * (use this, download from site) programmer1.9.11.03Education(2536).Win64.zip
 * (from lckfb) Gowin_V1.9.10.02_x64_win.exe
-* 逻辑派FPGA-G1
-* GW2A-LV18PG256C8/I7
-
+* 逻辑派FPGA-G1, GW2A-LV18PG256C8/I7
